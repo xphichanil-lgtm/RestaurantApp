@@ -1,0 +1,7 @@
+D:\SITFrontEed\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe.config
+D:\SITFrontEed\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.exe
+D:\SITFrontEed\RestaurantApp\RestaurantApp\bin\Debug\RestaurantApp.pdb
+D:\SITFrontEed\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.AssemblyReference.cache
+D:\SITFrontEed\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.csproj.CoreCompileInputs.cache
+D:\SITFrontEed\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.exe
+D:\SITFrontEed\RestaurantApp\RestaurantApp\obj\Debug\RestaurantApp.pdb
